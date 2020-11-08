@@ -9,4 +9,4 @@ Criterion for the .png input:
 This project was assigned for a Machine Design I course. The following code is in the same state of completion it was at the submission date.
 
 
-CITATION: The images 'Signature Cam un ren.png' and 'Signature Cam.jpg' is from my teammate that did the modeling for the mechanism. The images are included in this repository for context on how the cams would fit into the mechanism.
+CITATION: The images 'Signature Cam un ren.png' and 'Signature Cam.jpg' are from my teammate that did the modeling for the mechanism. The images are included in this repository for context on how the cams would fit into the mechanism.
